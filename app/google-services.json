@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "65400996969",
+    "project_id": "caramel-base-159409"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65400996969:android:64683977dbe08940",
+        "android_client_info": {
+          "package_name": "bonagua.sato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqrTI9zujWQa-cZilhzkJy3v1hWi-Gyq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-92555036-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
